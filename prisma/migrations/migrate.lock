@@ -1,0 +1,7 @@
+# Prisma Migrate lockfile v1
+
+20200823182046-1st-migrate
+20200823190119-adding-article-schema
+20200823190203-changting
+20200823191707-fix-typos
+20200823193001-changing-article-field-into-plural--articles
